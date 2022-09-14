@@ -1,0 +1,27 @@
+.app-container {
+  padding: 0 10px;
+}
+
+@media (min-width: 576px) {
+  .app-container {
+    padding: 0 40px;
+  }
+}
+
+@media (min-width: 768px) {
+  .app-container {
+    padding: 0 40px;
+  }
+}
+
+@media (min-width: 992px) {
+  .app-container {
+    padding: 0 15px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .app-container {
+    padding: 0 120px;
+  }
+}
